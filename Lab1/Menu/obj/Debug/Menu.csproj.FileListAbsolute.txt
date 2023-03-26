@@ -1,0 +1,13 @@
+C:\Users\84386\source\repos\Lab1\Menu\bin\Debug\Menu.exe.config
+C:\Users\84386\source\repos\Lab1\Menu\bin\Debug\Menu.exe
+C:\Users\84386\source\repos\Lab1\Menu\bin\Debug\Menu.pdb
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.exe
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.pdb
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Form2.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Form3.resources

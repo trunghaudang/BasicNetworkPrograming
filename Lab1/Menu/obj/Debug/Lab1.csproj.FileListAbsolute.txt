@@ -1,0 +1,16 @@
+C:\Users\84386\source\repos\Lab1\Menu\bin\Debug\Menu.exe.config
+C:\Users\84386\source\repos\Lab1\Menu\bin\Debug\Menu.exe
+C:\Users\84386\source\repos\Lab1\Menu\bin\Debug\Menu.pdb
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Bai1.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Bai2.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.exe
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.pdb
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Bai3.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Bai4.resources
+C:\Users\84386\source\repos\Lab1\Menu\obj\Debug\Menu.Bai5.resources
