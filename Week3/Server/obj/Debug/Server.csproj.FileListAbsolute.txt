@@ -1,0 +1,11 @@
+C:\Users\84386\source\repos\Week3\Server\bin\Debug\Server.exe.config
+C:\Users\84386\source\repos\Week3\Server\bin\Debug\Server.exe
+C:\Users\84386\source\repos\Week3\Server\bin\Debug\Server.pdb
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.Form1.resources
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.exe
+C:\Users\84386\source\repos\Week3\Server\obj\Debug\Server.pdb
